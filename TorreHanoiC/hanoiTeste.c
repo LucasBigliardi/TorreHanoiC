@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <locale.h>
 
 #define FACIL 3
 #define MEDIO 5
@@ -67,6 +68,9 @@ int movimentoValido(Pilha *origem, Pilha *destino) {
 }
 
 int main() {
+
+    setlocale(LC_ALL, "Portuguese");
+
     int dificuldade;
     int numDiscos;
 
