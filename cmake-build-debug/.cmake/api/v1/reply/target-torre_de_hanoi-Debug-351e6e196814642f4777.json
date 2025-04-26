@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "TorreHanoiC.exe"
+			"path" : "torre_de_hanoi.exe"
 		},
 		{
-			"path" : "TorreHanoiC.pdb"
+			"path" : "torre_de_hanoi.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "TorreHanoiC::@6890427a1f51a3e7e1df",
+	"id" : "torre_de_hanoi::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "TorreHanoiC",
-	"nameOnDisk" : "TorreHanoiC.exe",
+	"name" : "torre_de_hanoi",
+	"nameOnDisk" : "torre_de_hanoi.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TorreHanoiC/hanoiTeste.c",
+			"path" : "main.c",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -1,3 +1,5 @@
 # ninja log v6
-16	221	7671708011830718	CMakeFiles/TorreHanoiC.dir/TorreHanoiC/hanoiTeste.c.obj	209a9b2dcb02ac6
-223	480	7671708013906262	TorreHanoiC.exe	57b7a6dc59c01619
+12	309	7673947298124027	CMakeFiles/torre_de_hanoi.dir/main.c.obj	274e394e35f97fbd
+312	675	7673947301121376	torre_de_hanoi.exe	2cb0b776b2d37152
+19	317	7673947938581194	CMakeFiles/torre_de_hanoi.dir/main.c.obj	274e394e35f97fbd
+318	584	7673947941576633	torre_de_hanoi.exe	2cb0b776b2d37152
