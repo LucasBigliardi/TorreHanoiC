@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/hukak/Dev/Faculdade/TorreHanoiC/cmake-build-debug"
+			"value" : "c:/Users/hukak/Downloads/torre_de_hanoi/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/hukak/Dev/Faculdade/TorreHanoiC/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/hukak/Downloads/torre_de_hanoi/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/hukak/Dev/Faculdade/TorreHanoiC"
+			"value" : "C:/Users/hukak/Downloads/torre_de_hanoi"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/TorreHanoiC"
+			"value" : "C:/Program Files (x86)/torre_de_hanoi"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "TorreHanoiC"
+			"value" : "torre_de_hanoi"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1126,7 +1126,19 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "TorreHanoiC_BINARY_DIR",
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "torre_de_hanoi_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,10 +1147,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/hukak/Dev/Faculdade/TorreHanoiC/cmake-build-debug"
+			"value" : "C:/Users/hukak/Downloads/torre_de_hanoi/cmake-build-debug"
 		},
 		{
-			"name" : "TorreHanoiC_IS_TOP_LEVEL",
+			"name" : "torre_de_hanoi_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1150,7 +1162,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "TorreHanoiC_SOURCE_DIR",
+			"name" : "torre_de_hanoi_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1159,19 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/hukak/Dev/Faculdade/TorreHanoiC"
-		},
-		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
+			"value" : "C:/Users/hukak/Downloads/torre_de_hanoi"
 		}
 	],
 	"kind" : "cache",

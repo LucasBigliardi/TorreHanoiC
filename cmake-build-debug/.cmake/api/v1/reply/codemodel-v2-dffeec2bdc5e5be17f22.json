@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "TorreHanoiC",
+					"name" : "torre_de_hanoi",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "TorreHanoiC::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TorreHanoiC-Debug-28a27503474abd51309b.json",
-					"name" : "TorreHanoiC",
+					"id" : "torre_de_hanoi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-torre_de_hanoi-Debug-351e6e196814642f4777.json",
+					"name" : "torre_de_hanoi",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/hukak/Dev/Faculdade/TorreHanoiC/cmake-build-debug",
-		"source" : "C:/Users/hukak/Dev/Faculdade/TorreHanoiC"
+		"build" : "C:/Users/hukak/Downloads/torre_de_hanoi/cmake-build-debug",
+		"source" : "C:/Users/hukak/Downloads/torre_de_hanoi"
 	},
 	"version" : 
 	{

@@ -1,40 +1,8 @@
-# Arquivos de build
-cmake-build-*/
-build/
-*.o
-*.obj
-*.exe
-*.out
-*.a
-*.so
-*.dll
-
-# Arquivos de IDE CLion/JetBrains
-.idea/
-*.iml
-
-# Arquivos de CMake
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-compile_commands.json
-
-# Arquivos temporários
-*.log
-*.tmp
-*.swp
-*.DS_Store
-
-# Executáveis gerados
-*.bin
-*.run
-
-# Arquivos de backup comuns
-*~
-*.bak
-
-# Arquivos de testes e debugging
-vgcore.*
-core.*
-
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
